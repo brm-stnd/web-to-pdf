@@ -6,10 +6,10 @@
 npm install
 ```
 
-2. Make sure .env value like this:
+2. Create new .env file and put this value:
 
 ```bash
-BROWSERLESS_TOKEN=YOUR_TOKEN
+BROWSERLESS_TOKEN=S7yIi79edCvrqA267b0082477d5f95c695993627d3
 ```
 
 3. Run the repo
